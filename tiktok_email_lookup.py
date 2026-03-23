@@ -1,1 +1,1 @@
-Content on Telegram: https://t.me/Z_0_G⁠�
+Content on Telegram: https://t.me/Z_0_G
