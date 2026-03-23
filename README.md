@@ -10,7 +10,7 @@
 - Video / Image URL 🎥
 - Cover image 🖼️
 - Heart count ❤️
-- View count👀
+- View count 👀
 - Timestamp 🕦
 
 <h1 align="center">👀 Example Output</h1>
