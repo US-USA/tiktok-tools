@@ -130,6 +130,14 @@
 
 - Creates TikTok accounts 👥
 - Sends verification code 📩
+-------
+- Uses real mobile device data from `devices.txt`
+- Includes:
+  - `iid` (iid)
+  - `did` (device_id)
+  - `device_type`
+  - `device_brand`
+- `devices.txt` file size: ~7.34 MB
 
 <h1 align="center">👀 Example Output</h1>
 
