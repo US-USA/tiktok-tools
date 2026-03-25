@@ -123,6 +123,38 @@
 
 <img src="https://dummyimage.com/800x4/ff0000/ff0000">
 
+
+<h1 align="center">⭐ TikTok Account Creator</h1>
+
+<h3> ✨ Features</h3>
+
+- Creates TikTok accounts 👥
+- Sends verification code 📩
+
+<h1 align="center">👀 Example Output</h1>
+
+```json
+{
+  "status": "success",
+  "message": "ACCOUNT CREATED SUCCESSFULLY!!!",
+  "account": {
+    "email": "c*****@m******.com",
+    "password": "***************",
+    "username": "c*******07u"
+  },
+  "verification": {
+    "code_sent": true,
+    "code": "******"
+  },
+  "session": {
+    "session_key": "49******",
+    "x_tt_token": "03******f6b-3.0.1"
+  }
+}
+```
+
+<img src="https://dummyimage.com/800x4/ff0000/ff0000">
+
 <h1 align="center">🧑‍💻 Author</h1>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="80" alt="developer"/>
