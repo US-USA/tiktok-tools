@@ -161,6 +161,10 @@
 }
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/US-USA/tiktokTools/refs/heads/master/IMG_20260326_020716.jpg" width="80%" alt="TikTok Account Creator">
+</p>
+
 <img src="https://dummyimage.com/800x4/ff0000/ff0000">
 
 <h1 align="center">🧑‍💻 Author</h1>
