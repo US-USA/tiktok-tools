@@ -160,7 +160,7 @@
   }
 }
 ```
-<h1 align="center">It’s not a ban 🌚</h1> 
+<h1 align="center">No ban 🌚</h1> 
  
 <p align="center">
   <img src="https://raw.githubusercontent.com/US-USA/tiktok-Tools/refs/heads/master/IMG_20260326_030111.jpg" width="80%" alt="TikTok Account Creator">
